@@ -1,0 +1,3192 @@
+fileFormatVersion: 2
+guid: e7cc6e9c763963d41b866137fbcca0bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1391842820573947456
+    second: red hood itch free Right-Side_0
+  - first:
+      213: -5431496098103641566
+    second: red hood itch free Right-Side_1
+  - first:
+      213: 7694903389634039840
+    second: red hood itch free Right-Side_2
+  - first:
+      213: 9086767408496492695
+    second: red hood itch free Right-Side_3
+  - first:
+      213: 167280769300260724
+    second: red hood itch free Right-Side_4
+  - first:
+      213: -6869565141886545933
+    second: red hood itch free Right-Side_5
+  - first:
+      213: 491861498246161431
+    second: red hood itch free Right-Side_6
+  - first:
+      213: -7505887230352195417
+    second: red hood itch free Right-Side_7
+  - first:
+      213: 1715707989917239278
+    second: red hood itch free Right-Side_8
+  - first:
+      213: 9215508147099922276
+    second: red hood itch free Right-Side_9
+  - first:
+      213: -4982536942937214252
+    second: red hood itch free Right-Side_10
+  - first:
+      213: -3536998558902121553
+    second: red hood itch free Right-Side_11
+  - first:
+      213: -1305408908373176657
+    second: red hood itch free Right-Side_12
+  - first:
+      213: -9192009886875898794
+    second: red hood itch free Right-Side_13
+  - first:
+      213: -4052549081853410828
+    second: red hood itch free Right-Side_14
+  - first:
+      213: 1304217916064779060
+    second: red hood itch free Right-Side_15
+  - first:
+      213: 912537425073683861
+    second: red hood itch free Right-Side_16
+  - first:
+      213: -238295304465359158
+    second: red hood itch free Right-Side_17
+  - first:
+      213: -5228705801987759398
+    second: red hood itch free Right-Side_18
+  - first:
+      213: 6008640954762440855
+    second: red hood itch free Right-Side_19
+  - first:
+      213: 2616036306901271430
+    second: red hood itch free Right-Side_20
+  - first:
+      213: -5529657442124785365
+    second: red hood itch free Right-Side_21
+  - first:
+      213: 2479767837034137079
+    second: red hood itch free Right-Side_22
+  - first:
+      213: 6897956557387248187
+    second: red hood itch free Right-Side_23
+  - first:
+      213: 3193778910740863747
+    second: red hood itch free Right-Side_24
+  - first:
+      213: -945531348461224754
+    second: red hood itch free Right-Side_25
+  - first:
+      213: 8008487613162810406
+    second: red hood itch free Right-Side_26
+  - first:
+      213: -3650186766869645824
+    second: red hood itch free Right-Side_27
+  - first:
+      213: 6069390786359676211
+    second: red hood itch free Right-Side_28
+  - first:
+      213: 4113446937911920970
+    second: red hood itch free Right-Side_29
+  - first:
+      213: 7757261801725363920
+    second: red hood itch free Right-Side_30
+  - first:
+      213: -3791603417366555740
+    second: red hood itch free Right-Side_31
+  - first:
+      213: -2896591809263535584
+    second: red hood itch free Right-Side_32
+  - first:
+      213: 6810514459357250017
+    second: red hood itch free Right-Side_33
+  - first:
+      213: 2031799807970317498
+    second: red hood itch free Right-Side_34
+  - first:
+      213: 6121868687220312350
+    second: red hood itch free Right-Side_35
+  - first:
+      213: 3882162398807634764
+    second: red hood itch free Right-Side_36
+  - first:
+      213: -8267808010573019241
+    second: red hood itch free Right-Side_37
+  - first:
+      213: -2125926859892279983
+    second: red hood itch free Right-Side_38
+  - first:
+      213: -6723780386285118524
+    second: red hood itch free Right-Side_39
+  - first:
+      213: 4338871173880543425
+    second: red hood itch free Right-Side_40
+  - first:
+      213: -7797896707725994988
+    second: red hood itch free Right-Side_41
+  - first:
+      213: -3899563177294672991
+    second: red hood itch free Right-Side_42
+  - first:
+      213: -5018659424081549928
+    second: red hood itch free Right-Side_43
+  - first:
+      213: -343620879891227679
+    second: red hood itch free Right-Side_44
+  - first:
+      213: 1005177437606595170
+    second: red hood itch free Right-Side_45
+  - first:
+      213: 3555406161715060818
+    second: red hood itch free Right-Side_46
+  - first:
+      213: -319769341503408039
+    second: red hood itch free Right-Side_47
+  - first:
+      213: 1248372759392218417
+    second: red hood itch free Right-Side_48
+  - first:
+      213: -1706018648874333232
+    second: red hood itch free Right-Side_49
+  - first:
+      213: -1720047768422227347
+    second: red hood itch free Right-Side_50
+  - first:
+      213: 5740710720715442468
+    second: red hood itch free Right-Side_51
+  - first:
+      213: 1389010172826564632
+    second: red hood itch free Right-Side_52
+  - first:
+      213: 5135149565110904216
+    second: red hood itch free Right-Side_53
+  - first:
+      213: -840608999769125073
+    second: red hood itch free Right-Side_54
+  - first:
+      213: 4707303492380785806
+    second: red hood itch free Right-Side_55
+  - first:
+      213: 290083740895588968
+    second: red hood itch free Right-Side_56
+  - first:
+      213: 7394657337655628745
+    second: red hood itch free Right-Side_57
+  - first:
+      213: 6555563785733060217
+    second: red hood itch free Right-Side_58
+  - first:
+      213: -2445928961887415928
+    second: red hood itch free Right-Side_59
+  - first:
+      213: -3894595806887208424
+    second: red hood itch free Right-Side_60
+  - first:
+      213: -7430873245009352806
+    second: red hood itch free Right-Side_61
+  - first:
+      213: -2325495006573170782
+    second: red hood itch free Right-Side_62
+  - first:
+      213: -1170833950538076363
+    second: red hood itch free Right-Side_63
+  - first:
+      213: -5794107142794144050
+    second: red hood itch free Right-Side_64
+  - first:
+      213: 1699131109217225178
+    second: red hood itch free Right-Side_65
+  - first:
+      213: -8176658153156020206
+    second: red hood itch free Right-Side_66
+  - first:
+      213: 6382117373958655828
+    second: red hood itch free Right-Side_67
+  - first:
+      213: 4269752894516346929
+    second: red hood itch free Right-Side_68
+  - first:
+      213: 1396720314896286752
+    second: red hood itch free Right-Side_69
+  - first:
+      213: -4766497967573524664
+    second: red hood itch free Right-Side_70
+  - first:
+      213: 4138550318092547148
+    second: red hood itch free Right-Side_71
+  - first:
+      213: -3072380205955270639
+    second: red hood itch free Right-Side_72
+  - first:
+      213: -8639236736877964125
+    second: red hood itch free Right-Side_73
+  - first:
+      213: 662702426775735741
+    second: red hood itch free Right-Side_74
+  - first:
+      213: -7079456394785495340
+    second: red hood itch free Right-Side_75
+  - first:
+      213: 1775123319246405755
+    second: red hood itch free Right-Side_76
+  - first:
+      213: 3659427213519504543
+    second: red hood itch free Right-Side_77
+  - first:
+      213: -6353944890311978617
+    second: red hood itch free Right-Side_78
+  - first:
+      213: 9022411444173412893
+    second: red hood itch free Right-Side_79
+  - first:
+      213: -5067031268331982793
+    second: red hood itch free Right-Side_80
+  - first:
+      213: 6854534348783115335
+    second: red hood itch free Right-Side_81
+  - first:
+      213: 4493810933484129974
+    second: red hood itch free Right-Side_82
+  - first:
+      213: 1519066737538141292
+    second: red hood itch free Right-Side_83
+  - first:
+      213: 5363058536133589663
+    second: red hood itch free Right-Side_84
+  - first:
+      213: 113445313293396368
+    second: red hood itch free Right-Side_85
+  - first:
+      213: 7412693327972041484
+    second: red hood itch free Right-Side_86
+  - first:
+      213: -5896612659528572786
+    second: red hood itch free Right-Side_87
+  - first:
+      213: -4725686732229678008
+    second: red hood itch free Right-Side_88
+  - first:
+      213: 6559124776210533665
+    second: red hood itch free Right-Side_89
+  - first:
+      213: -2736178626863586709
+    second: red hood itch free Right-Side_90
+  - first:
+      213: 43638432882085311
+    second: red hood itch free Right-Side_91
+  - first:
+      213: 5994174219370971033
+    second: red hood itch free Right-Side_92
+  - first:
+      213: 2538364677603692707
+    second: red hood itch free Right-Side_93
+  - first:
+      213: 1179740028737967384
+    second: red hood itch free Right-Side_94
+  - first:
+      213: 5138712999261809626
+    second: red hood itch free Right-Side_95
+  - first:
+      213: 4895082764463831299
+    second: red hood itch free Right-Side_96
+  - first:
+      213: -616605321832167856
+    second: red hood itch free Right-Side_97
+  - first:
+      213: 3983029959222019176
+    second: red hood itch free Right-Side_98
+  - first:
+      213: 655756545528665267
+    second: red hood itch free Right-Side_99
+  - first:
+      213: 1477202960651078443
+    second: red hood itch free Right-Side_100
+  - first:
+      213: -1549726377884429052
+    second: red hood itch free Right-Side_101
+  - first:
+      213: 1527826424076321953
+    second: red hood itch free Right-Side_102
+  - first:
+      213: -7233222568437931043
+    second: red hood itch free Right-Side_103
+  - first:
+      213: 7224877975273695806
+    second: red hood itch free Right-Side_104
+  - first:
+      213: -5802951584202696540
+    second: red hood itch free Right-Side_105
+  - first:
+      213: -1975259851184055326
+    second: red hood itch free Right-Side_106
+  - first:
+      213: 5208796125699455297
+    second: red hood itch free Right-Side_107
+  - first:
+      213: -5335979866921261563
+    second: red hood itch free Right-Side_108
+  - first:
+      213: -8754476431609596280
+    second: red hood itch free Right-Side_109
+  - first:
+      213: -2006510979000506210
+    second: red hood itch free Right-Side_110
+  - first:
+      213: -1066134157971442245
+    second: red hood itch free Right-Side_111
+  - first:
+      213: -738714109122733165
+    second: red hood itch free Right-Side_112
+  - first:
+      213: 463647639653628030
+    second: red hood itch free Right-Side_113
+  - first:
+      213: -5277810119329294231
+    second: red hood itch free Right-Side_114
+  - first:
+      213: -5646480462736763731
+    second: red hood itch free Right-Side_115
+  - first:
+      213: 5199573568458758899
+    second: red hood itch free Right-Side_116
+  - first:
+      213: -1196054478948497518
+    second: red hood itch free Right-Side_117
+  - first:
+      213: 4344788421157489834
+    second: red hood itch free Right-Side_118
+  - first:
+      213: 4151504000733635540
+    second: red hood itch free Right-Side_119
+  - first:
+      213: -4770389146875917146
+    second: red hood itch free Right-Side_120
+  - first:
+      213: -6696041354091827297
+    second: red hood itch free Right-Side_121
+  - first:
+      213: 2255233098100963103
+    second: red hood itch free Right-Side_122
+  - first:
+      213: -4723464143708824030
+    second: red hood itch free Right-Side_123
+  - first:
+      213: 4465193138866750112
+    second: red hood itch free Right-Side_124
+  - first:
+      213: 2092300563261796699
+    second: red hood itch free Right-Side_125
+  - first:
+      213: -897615802185936655
+    second: red hood itch free Right-Side_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1366
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91388345e2face0800000000000000
+      internalID: -1391842820573947456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1366
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22abc9973137f94b0800000000000000
+      internalID: -5431496098103641566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1366
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02016101dd9c9ca60800000000000000
+      internalID: 7694903389634039840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1366
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c70470deaa1e70800000000000000
+      internalID: 9086767408496492695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1366
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47765ef29fc425200800000000000000
+      internalID: 167280769300260724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1367
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff427466e66aa0a0800000000000000
+      internalID: -6869565141886545933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1372
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71467a93d6173d600800000000000000
+      internalID: 491861498246161431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1374
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a087b6f45bb5d790800000000000000
+      internalID: -7505887230352195417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1372
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7015d935b6fc710800000000000000
+      internalID: 1715707989917239278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46feb9c75df04ef70800000000000000
+      internalID: 9215508147099922276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1366
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d277fb8c097adab0800000000000000
+      internalID: -4982536942937214252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1366
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab029dec8e0aeec0800000000000000
+      internalID: -3536998558902121553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1233
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae49c1a38142ede0800000000000000
+      internalID: -1305408908373176657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1233
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c22e095bb6f6080800000000000000
+      internalID: -9192009886875898794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1233
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ca45d41472c7c0800000000000000
+      internalID: -4052549081853410828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1233
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bcdbcd843891210800000000000000
+      internalID: 1304217916064779060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1233
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d34c904fbf9ac00800000000000000
+      internalID: 912537425073683861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1235
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aced2b1eea761bcf0800000000000000
+      internalID: -238295304465359158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_18
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1239
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2ee75a6c7ef67b0800000000000000
+      internalID: -5228705801987759398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1241
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790ba7bfc1bf26350800000000000000
+      internalID: 6008640954762440855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_20
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1239
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683006829270e4420800000000000000
+      internalID: 2616036306901271430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1236
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299e809ad5b243b0800000000000000
+      internalID: -5529657442124785365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_22
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1234
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5cbdb95b7e96220800000000000000
+      internalID: 2479767837034137079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1233
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b42721f67abf50800000000000000
+      internalID: 6897956557387248187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1102
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd7d97ff4925c20800000000000000
+      internalID: 3193778910740863747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf8fa8f3cc0e2f0800000000000000
+      internalID: -945531348461224754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1100
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6faaad0dd32f60800000000000000
+      internalID: 8008487613162810406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1100
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00637ec997ee75dc0800000000000000
+      internalID: -3650186766869645824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1100
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4fff53ceca3450800000000000000
+      internalID: 6069390786359676211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1100
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4988a03236e51930800000000000000
+      internalID: 4113446937911920970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1100
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60c89428457ab60800000000000000
+      internalID: 7757261801725363920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_31
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1100
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a395bad7c4816bc0800000000000000
+      internalID: -3791603417366555740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_32
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1100
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7a85a81d3dc7d0800000000000000
+      internalID: -2896591809263535584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1100
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e186af21dec38e50800000000000000
+      internalID: 6810514459357250017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_34
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1100
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab417c01927623c10800000000000000
+      internalID: 2031799807970317498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_35
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1100
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e198a5fc22f35f450800000000000000
+      internalID: 6121868687220312350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 967
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43be45122630e530800000000000000
+      internalID: 3882162398807634764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 967
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978aaa4b68d24d80800000000000000
+      internalID: -8267808010573019241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 967
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b8a9d8c03f72e0800000000000000
+      internalID: -2125926859892279983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 968
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9cbfdc5550b2a0800000000000000
+      internalID: -6723780386285118524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 969
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f4552854c63c30800000000000000
+      internalID: 4338871173880543425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 970
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ddc4624e48c390800000000000000
+      internalID: -7797896707725994988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_42
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 971
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab482673f7f1e9c0800000000000000
+      internalID: -3899563177294672991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_43
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 971
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895e3f208d32a5ab0800000000000000
+      internalID: -5018659424081549928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_44
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 971
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1dac51a63b3bf0800000000000000
+      internalID: -343620879891227679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_45
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 971
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a47c8cd8b13fd00800000000000000
+      internalID: 1005177437606595170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_46
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 969
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e2451117575130800000000000000
+      internalID: 3555406161715060818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 969
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f0a56a73ff8bf0800000000000000
+      internalID: -319769341503408039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 834
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de8d6196c135110800000000000000
+      internalID: 1248372759392218417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 834
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db47a5e3110358e0800000000000000
+      internalID: -1706018648874333232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 834
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626d76faa92128e0800000000000000
+      internalID: -1720047768422227347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 834
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42945822cf91baf40800000000000000
+      internalID: 5740710720715442468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 834
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8183bb49461c64310800000000000000
+      internalID: 1389010172826564632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_53
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 834
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895efe08257b34740800000000000000
+      internalID: 5135149565110904216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_54
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 834
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc3c5819e8554f0800000000000000
+      internalID: -840608999769125073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_55
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 834
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cff410693b35140800000000000000
+      internalID: 4707303492380785806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_56
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 834
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b23b10a5960400800000000000000
+      internalID: 290083740895588968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_57
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 834
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c313b68ba91f9660800000000000000
+      internalID: 7394657337655628745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_58
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 834
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b80fb78a0afa50800000000000000
+      internalID: 6555563785733060217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_59
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 834
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815cd871905e0ed0800000000000000
+      internalID: -2445928961887415928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_60
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 701
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a13c28fbd93f9c0800000000000000
+      internalID: -3894595806887208424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 701
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a976344772c30e890800000000000000
+      internalID: -7430873245009352806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 701
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe24ecc9e2abfd0800000000000000
+      internalID: -2325495006573170782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 701
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe53fa9bc50cfe0800000000000000
+      internalID: -1170833950538076363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 701
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6933b8042379fa0800000000000000
+      internalID: -5794107142794144050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 701
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad945bfcdb6849710800000000000000
+      internalID: 1699131109217225178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 701
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21875534bbca68e80800000000000000
+      internalID: -8176658153156020206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_67
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 701
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f87ad00f5d19850800000000000000
+      internalID: 6382117373958655828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_68
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 701
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c75ca2a5314b30800000000000000
+      internalID: 4269752894516346929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_69
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 701
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02407fbe9b5226310800000000000000
+      internalID: 1396720314896286752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_70
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 701
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f982c3a5ff9ddb0800000000000000
+      internalID: -4766497967573524664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_71
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 701
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c447cfa56951f6930800000000000000
+      internalID: 4138550318092547148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 568
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11838191b76bc55d0800000000000000
+      internalID: -3072380205955270639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 568
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a452efd5f34b1880800000000000000
+      internalID: -8639236736877964125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 568
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc1c39854623900800000000000000
+      internalID: 662702426775735741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_75
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 568
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d661f1eae7b0cd90800000000000000
+      internalID: -7079456394785495340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_76
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 568
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70c13cf04182a810800000000000000
+      internalID: 1775123319246405755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_77
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 568
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f944a3789a5e8c230800000000000000
+      internalID: 3659427213519504543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_78
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781db8279c042d7a0800000000000000
+      internalID: -6353944890311978617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_79
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a106bd76b063d70800000000000000
+      internalID: 9022411444173412893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_80
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730764168e94ea9b0800000000000000
+      internalID: -5067031268331982793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_81
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5eef5ca2302f50800000000000000
+      internalID: 6854534348783115335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_82
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 568
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be861a1c393d5e30800000000000000
+      internalID: 4493810933484129974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_83
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 568
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c8211462fc41510800000000000000
+      internalID: 1519066737538141292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 435
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a7edbe2596d6a40800000000000000
+      internalID: 5363058536133589663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 435
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099294059e9039100800000000000000
+      internalID: 113445313293396368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 435
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038ea2ce4d2fd660800000000000000
+      internalID: 7412693327972041484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_87
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 435
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806aba17060b2ea0800000000000000
+      internalID: -5896612659528572786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_88
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 435
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6cad64fcfa6eb0800000000000000
+      internalID: -4725686732229678008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_89
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 435
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d0e737b31b60b50800000000000000
+      internalID: 6559124776210533665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_90
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 435
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a7c72904270ad0800000000000000
+      internalID: -2736178626863586709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 435
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdcd7a6ce80b9000800000000000000
+      internalID: 43638432882085311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_92
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 435
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f396ba1b59f2350800000000000000
+      internalID: 5994174219370971033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_93
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 435
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a097f6b9351a3320800000000000000
+      internalID: 2538364677603692707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_94
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 435
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8155c3c3e474f5010800000000000000
+      internalID: 1179740028737967384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_95
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 435
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbaeab2f30605740800000000000000
+      internalID: 5138712999261809626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_96
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f00ac6d3dee340800000000000000
+      internalID: 4895082764463831299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 302
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05604990ab06177f0800000000000000
+      internalID: -616605321832167856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 302
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ca2915a0964730800000000000000
+      internalID: 3983029959222019176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 302
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49f539a17b91900800000000000000
+      internalID: 655756545528665267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 302
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b43c22444108410800000000000000
+      internalID: 1477202960651078443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_101
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 302
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4055523f1144e7ae0800000000000000
+      internalID: -1549726377884429052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 302
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a44685b90ee33510800000000000000
+      internalID: 1527826424076321953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_103
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 302
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32be2b56e6e9b90800000000000000
+      internalID: -7233222568437931043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_104
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 302
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6bbd4d3ce34460800000000000000
+      internalID: 7224877975273695806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_105
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 302
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8dece8746c77fa0800000000000000
+      internalID: -5802951584202696540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_106
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 302
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb551771a77694e0800000000000000
+      internalID: -1975259851184055326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_107
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 302
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493fbb9a7c594840800000000000000
+      internalID: 5208796125699455297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 169
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a58f059ac2f5b0800000000000000
+      internalID: -5335979866921261563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 169
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867163911ad18680800000000000000
+      internalID: -8754476431609596280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 169
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e0c245e07724e0800000000000000
+      internalID: -2006510979000506210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_111
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 169
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b337c1a45431f0800000000000000
+      internalID: -1066134157971442245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_112
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 169
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9b2f7e6f8fb5f0800000000000000
+      internalID: -738714109122733165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_113
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 169
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b08e52153f6600800000000000000
+      internalID: 463647639653628030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 169
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685a65d8a371c6b0800000000000000
+      internalID: -5277810119329294231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_115
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 169
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4546b7feba3a1b0800000000000000
+      internalID: -5646480462736763731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_116
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 169
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9e7bac98982840800000000000000
+      internalID: 5199573568458758899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_117
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 169
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978242d9c2c66fe0800000000000000
+      internalID: -1196054478948497518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_118
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 169
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8253ac0acb4c30800000000000000
+      internalID: 4344788421157489834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_119
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 169
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3675f94ea1d9930800000000000000
+      internalID: 4151504000733635540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_120
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 36
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0514785c2ccdb0800000000000000
+      internalID: -4770389146875917146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_121
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe7089dd1e213a0800000000000000
+      internalID: -6696041354091827297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_122
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f202dd823c4f10800000000000000
+      internalID: 2255233098100963103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_123
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed0f42362e27eb0800000000000000
+      internalID: -4723464143708824030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_124
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20aaf808d87fd30800000000000000
+      internalID: 4465193138866750112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_125
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b19cd648590d10800000000000000
+      internalID: 2092300563261796699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood itch free Right-Side_126
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 36
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01ee50f270b83f0800000000000000
+      internalID: -897615802185936655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
