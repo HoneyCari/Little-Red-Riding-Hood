@@ -85,6 +85,11 @@ public class CharacterController2D : MonoBehaviour
             playerAnim.SetBool("isJumping", true);
         }
 
+        // Attack 
+        if (Input.GetKeyDown(KeyCode.J)) {
+            playerAnim.SetTrigger("attack1");
+        }
+
         // Camera follow
         if (mainCamera)
         {
