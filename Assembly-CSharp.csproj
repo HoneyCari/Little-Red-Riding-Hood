@@ -56,8 +56,13 @@
     <Compile Include="Assets\Scripts\Botones\Menuinicial.cs" />
     <Compile Include="Assets\Scripts\CameraFollowS.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+    <Compile Include="Assets\Scripts\PlayerAttackHitBox.cs" />
     <Compile Include="Assets\Scripts\LifeSystem.cs" />
     <Compile Include="Assets\Scripts\ControladorBengalas\Bengalas.cs" />
+    <Compile Include="Assets\Scripts\MainTitleScript.cs" />
+    <Compile Include="Assets\Scripts\StreamVideo.cs" />
+    <Compile Include="Assets\Resources\Camera\SUPER Character Controller\SUPER Character Controller\SUPERCharacterAIO.cs" />
+    <Compile Include="Assets\Scripts\PauseScreen.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
